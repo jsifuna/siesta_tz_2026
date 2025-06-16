@@ -1,12 +1,11 @@
 # siesta_tz_2026
 # 🧪 East-African School on Density Functional Theory and its Applications – SIESTA @ University of Dodoma
 
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simuneatomistics.com%2Fsiesta-toolkit%2Fsiesta-code%2F&psig=AOvVaw32jy_FeB4zTu2DuhzWb3Cl&ust=1750172183977000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC2os6Z9o0DFQAAAAAdAAAAABAE](link-to-logo-if-available)
 
 Welcome to the GitHub repository for the **East-African School on Density Functional Theory (DFT) and its Applications**, with a special focus on the **SIESTA** code. This school is a regional initiative to introduce participants to *first-principles simulations*, *molecular dynamics*, and modern tools like *AI-assisted materials discovery*.
 
 > **📍 Hosted at the University of Dodoma**  
-> 🗓️ **July 8–10, 2024**  
+> 🗓️ **June 22–26, 2026**  
 > 🖥️ **Hands-on training with the SIESTA code**  
 > 🧠 **Explore quantum simulations from first principles**
 
