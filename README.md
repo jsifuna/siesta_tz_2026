@@ -110,4 +110,4 @@ All materials provided in this repository are licensed under the [Creative Commo
 
 ---
 
-© The SIESTA Group, 1996–2025 | Developed for the East-African Computational Materials Community 🌍
+© The SIESTA Group, 1996–2025 🌍
