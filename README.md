@@ -70,12 +70,12 @@ Participants will engage in:
 ### 🧑‍🏫 Speakers
 
 - Javier Junquera – Universidad de Cantabria  
-- George Amolo – TU-K
+- James Sifuna – The Catholic University of Eastern Africa
 
 ### 🛠️ Organisers
 
-- **James Sifuna** – CUEA  
-- **Stephen Chege** – TU-K
+- **Vijay Singh** – The University of Dodoma 
+
 
 ---
 
