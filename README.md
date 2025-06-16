@@ -62,14 +62,14 @@ Participants will engage in:
 ---
 
 ## 👥 School Directors
-
- 
 - **Javier Junquera** – Universidad de Cantabria
+ 
+
 
 ### 🧑‍🏫 Speakers
-
 - Javier Junquera – Universidad de Cantabria  
 - James Sifuna – The Catholic University of Eastern Africa
+
 
 ### 🛠️ Organisers
 
