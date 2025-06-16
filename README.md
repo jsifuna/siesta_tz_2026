@@ -52,7 +52,7 @@ Participants will engage in:
 
 ## 📝 Registration
 
-- 🗓️ **Deadline:** April 30, 2025  
+- 🗓️ **Deadline:** April 30, 2026  
 - 💰 **Cost:** FREE (thanks to our sponsors)  
 - ✈️ **Travel & accommodation** support available  
 - 🙋🏽‍♀️ **Female researchers are especially encouraged to apply**
@@ -63,8 +63,7 @@ Participants will engage in:
 
 ## 👥 School Directors
 
-- **Mary Wainaina** – Catholic University of Eastern Africa (CUEA)  
-- **George Amolo** – Technical University of Kenya (TU-K)  
+ 
 - **Javier Junquera** – Universidad de Cantabria
 
 ### 🧑‍🏫 Speakers
