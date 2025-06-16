@@ -52,7 +52,7 @@ Participants will engage in:
 
 ## 📝 Registration
 
-- 🗓️ **Deadline:** April 30, 2024  
+- 🗓️ **Deadline:** April 30, 2025  
 - 💰 **Cost:** FREE (thanks to our sponsors)  
 - ✈️ **Travel & accommodation** support available  
 - 🙋🏽‍♀️ **Female researchers are especially encouraged to apply**
