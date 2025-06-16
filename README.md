@@ -1,5 +1,5 @@
 # Welcome to the SIESTA school in DODOMA - 2026
-# 🧪 East-African School on Density Functional Theory and its Applications – SIESTA @ University of Dodoma
+### 🧪 East-African School on Density Functional Theory and its Applications – SIESTA @ University of Dodoma
 
 
 Welcome to the GitHub repository for the **East-African School on Density Functional Theory (DFT) and its Applications**, with a special focus on the **SIESTA** code. This school is a regional initiative to introduce participants to *first-principles simulations*, *molecular dynamics*, and modern tools like *AI-assisted materials discovery*.
