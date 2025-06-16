@@ -1,4 +1,4 @@
-# siesta_tz_2026
+# Welcome to the SIESTA school in DODOMA - 2026
 # 🧪 East-African School on Density Functional Theory and its Applications – SIESTA @ University of Dodoma
 
 
